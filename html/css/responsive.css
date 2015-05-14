@@ -1,0 +1,410 @@
+@media (max-width: 767px) {
+
+.content-light-green {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.content-light-green .content-box {
+  background-color: transparent;
+  border: medium none;
+  margin: 0;
+  height: 0;
+}
+
+.content-light-green .content-box .buynow-button {
+  display: block;
+  padding-left: 0;
+  text-align: center;
+}
+
+.content-light-green .content-box .title {
+  margin-top: 0;
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.content-light-green .content-box .description  {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.content-light-green .content-box .buynow-button a {
+  padding-top: 8px;
+}
+
+}@media (max-width: 767px) {
+
+.content-yellow  {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.content-yellow .top-header .title {
+  font-size: 1.9em;
+  margin-top: 11px;
+}
+
+.content-yellow .top-header .description {
+  font-size: 1.1em;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 8px;
+}
+
+.content-yellow .content-boxes .content-box .icon {
+  font-size: 2.5em;
+}
+
+.content-yellow .content-boxes {
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.content-yellow .content-boxes .content-box {
+  padding-left: 22px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+}@media (max-width: 767px) {
+
+.footer-orange-small .footer-subscribe {
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.footer-orange-small .footer-subscribe .title-wrap {
+  margin-bottom: 0px;  
+}
+
+.footer-orange-small .footer-copyright .footer-copyright-content {
+  margin-top: 5px;
+}
+
+.footer-orange-small .footer-copyright {
+  padding-bottom: 0px;
+}
+
+.footer-orange-small .footer-subscribe #contact_email {
+  width: 90%;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.footer-orange-small .footer-subscribe .subscribe-form-submit {
+  width: 90%;
+  text-align: center;
+}
+
+.footer-orange-small .footer-subscribe .subscribe-form-submit {
+  float: none;
+}
+
+.footer-orange-small .footer-copyright,
+.footer-orange-small .footer-follow-wrap {
+  text-align: center;
+}
+
+.footer-orange-small .footer-menu ul {
+  text-align: center;
+  float: none;
+}
+
+.footer-orange-small .footer-menu ul li {
+  display: inline-block;
+}
+
+.footer-orange-small .footer-menu ul li a {
+  font-size: 1.1em;
+  margin-bottom: 13px;
+  padding: 4px 4px;
+}
+  
+}
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header Yellow Slider  --------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.header-yellow-slider-menu .site-logo-name {
+  margin-top: 8px;
+}
+
+.header-yellow-slider-menu .navbar-toggle {
+  border: 1px solid;
+}
+
+.header-yellow-slider-menu .navbar-toggle {
+  margin-right: 0px;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption {
+  bottom: 10%;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption .title {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+}
+.carousel-homeslider-header-yellow-slider .carousel-caption .cta-button {
+  padding: 5px 15px;
+  font-size: 1em;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-indicators {
+  bottom: 0px;
+}
+
+.header-yellow-slider-menu nav {
+  max-height: 10px;
+}
+
+.view-q-homeslider-header-yellow-slider {
+  margin-top: 50px; 
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.carousel-homeslider-header-yellow-slider .carousel-caption .title {
+  font-size: 2.5em;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+  font-size: 1.5em;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header Yellow Slider  -----------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog blue  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.blog-blue {
+  padding-top: 23px;
+  padding-bottom: 26px;
+}
+
+.blog-blue  h2 {
+  font-size: 32px;
+}
+
+.blog-blue .view-header .desc {
+  padding-bottom: 0px;
+}
+
+.blog-blue .view-header,
+.blog-blue .blog-readmore {
+  text-align: center;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+
+.blog-blue {
+  padding-bottom: 20px;
+}
+
+.blog-blue .view-content .blog-title,
+.blog-blue .view-content .meta-info {
+  padding-bottom: 26px;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) { 
+
+.blog-blue .view-content .blog-title a {
+  font-size: 18px;
+}
+
+.blog-blue .view-content .comments-count {
+  font-size: 12px;
+  padding-left: 0px;
+}
+
+.blog-blue .view-content .posted-date {
+  font-size: 12px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*--------------  Ends : Blognews / Blog blue  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table navy blue  ---------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.price-pricetable-navy-blue{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-navy-blue h2 {
+  font-size: 41px;
+}
+
+.price-pricetable-navy-blue .price-desc {
+  font-size: 14px;
+}
+
+.price-pricetable-navy-blue .price-table {
+  margin-top: 21px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-navy-blue .btn {
+  margin-bottom: 32px;
+}
+.price-pricetable-navy-blue .price-header {
+  width: 75%;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) {  
+
+.price-pricetable-navy-blue .price-header {
+  width: 70%;
+}
+.price-pricetable-navy-blue .price-price {
+  padding-right: 65px;
+  padding-top: 60px;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px){ 
+
+.price-pricetable-navy-blue .price-header {
+  width: 70%;
+}
+
+.price-pricetable-navy-blue .price-price {
+  padding-top: 40px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table navy blue  ------------------*/
+/*--------------------------------------------------------------------------*/
+  
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio purple  -----------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.portfolio-purple {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.portfolio-purple h2 {
+  font-size: 32px;
+  margin-bottom: 0px;
+}
+
+.portfolio-purple  .carousel-inner {
+  padding: 0px;
+  margin: 0;
+}
+
+.portfolio-purple  .carousel-inner .item {
+  margin: 0;
+}
+
+.portfolio-purple .team-inner {
+  padding: 0;
+}
+
+.portfolio-purple .mix {
+  padding: 0;
+}
+
+.portfolio-purple  .desc {
+  text-align: center;
+  padding: 10px 0px;
+  padding-bottom: 20px;
+  display: block;
+  font-size: 17px;
+}
+
+.portfolio-purple .portf-hover-inner a {
+  font-size: 25px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {  
+
+.portfolio-purple   .portf-hover-inner  a{
+  width: 50%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio purple  --------------*/
+/*--------------------------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Yellow  -------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.contact-yellow {
+  padding-top: 30px;
+  padding-bottom: 36px;
+}
+
+.contact-yellow .address {
+  margin-bottom: 10px;
+}
+
+.contact-yellow .follow-links a {
+  font-size: 25px;
+}
+
+.contact-yellow .follow-links {
+  margin-bottom: 20px;
+}
+
+.contact-yellow .form-group {
+  margin-bottom: 30px;
+}
+
+.contact-yellow  .contact-form .btn {
+  width:100%;
+  margin-top: -10px;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+
+.contact-yellow .contact-adddress .info {
+  font-size: 15px;
+}
+
+.contact-yellow .follow-links a {
+  font-size: 20px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Yellow  ----------------------------*/
+/*--------------------------------------------------------------------------*/
